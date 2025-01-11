@@ -10,3 +10,4 @@ Leverage Power BI/Tableau for interactive dashboards.
 Automation:
 Build automated scripts for report generation and email notifications.
 
+![alt text]https://github.com/gaptab/Business_Finance_Budgeting_Analytics_Cost_Reporting/blob/main/visualization_matplotlib_seaborn.png
